@@ -108,8 +108,7 @@ Then enter your Gemini API key in the sidebar or configure it in a `.env` file.
 Calling_AI_Model-/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Python dependencies
-├── .env                # Your API key (create from .env.example)
-├── .env.example       # Example environment variables
+├── .env                # Your API key 
 ├── .gitignore         # Git ignore file
 ├── README.md          # This file
 └── LICENSE            # License file
@@ -201,3 +200,4 @@ For questions or issues, please open an issue in the GitHub repository.
 ---
 
 **Note**: This is Lab 2B - Calling an AI Model. Make sure you have a valid Google Gemini API key before running the application.
+
